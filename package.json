@@ -1,0 +1,29 @@
+{
+  "name": "angular-flex",
+  "version": "1.0.0",
+  "description": "angular flex implements flexbox directives",
+  "main": "index.js",
+  "scripts": {
+    "test": "bower test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogobruno/angular-flex.git"
+  },
+  "keywords": [
+    "angular",
+    "flex",
+    "flexbox",
+    "layout",
+    "align"
+  ],
+  "author": "Bruno Silva (MOGO)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mogobruno/angular-flex/issues"
+  },
+  "homepage": "https://github.com/mogobruno/angular-flex#readme",
+  "devDependencies": {
+    "bower": "^1.7.7"
+  }
+}

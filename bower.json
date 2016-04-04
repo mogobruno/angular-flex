@@ -1,0 +1,28 @@
+{
+  "name": "angular-flex",
+  "description": "angular flex implements flexbox directives",
+  "main": "index.js",
+  "authors": [
+    "Bruno Silva (MOGO)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "flex",
+    "flexbox",
+    "layout",
+    "align"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
