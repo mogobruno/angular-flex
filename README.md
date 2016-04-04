@@ -1,6 +1,6 @@
 # angular-flex
 
-An implementation of css flexbox ofr AngularJS
+An implementation of css flexbox for AngularJS
 
 ## Instalation
 
