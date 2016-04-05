@@ -6,6 +6,12 @@ An implementation of css flexbox for AngularJS
 
 ```bower install angular-flex --save```
 
+or
+
+```npm install angular-flex --save```
+
+after this add the **angularFlex** module into your module dependencies
+
 ```angular.module('yourAppModule', ['angularFlex']); ```
 
 ### Documentation
