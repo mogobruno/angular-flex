@@ -2,7 +2,7 @@
   "name": "angular-flex",
   "version": "1.0.1",
   "description": "angular flex implements flexbox directives",
-  "main": "index.js",
+  "main": "flex_app/flex.module.js",
   "scripts": {
     "test": "bower test"
   },
