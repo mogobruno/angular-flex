@@ -1,6 +1,6 @@
 {
   "name": "angular-flex",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "angular flex implements flexbox directives",
   "main": "./flex.module.js",
   "scripts": {
