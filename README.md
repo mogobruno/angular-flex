@@ -1,4 +1,4 @@
-# angular-flex 1.0.1
+# angular-flex 1.0.2
 
 An implementation of css flexbox for AngularJS
 
