@@ -52,7 +52,7 @@ set elements order
 
 ``` flex-item flex-order="{value}" ```
 
-#### fx-padding
+#### fx-padding (1.0.1)
 
 set element padding (default: 1em)
 
