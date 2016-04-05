@@ -1,7 +1,7 @@
 {
   "name": "angular-flex",
   "description": "angular flex implements flexbox directives",
-  "main": "index.js",
+  "main": "./flex.module.js",
   "authors": [
     "Bruno Silva (MOGO)"
   ],
