@@ -57,3 +57,6 @@ set elements order
 set element padding (default: 1em)
 
 ``` fx-padding="{value}" ```
+
+##### About me
+https://br.linkedin.com/in/mogobruno
