@@ -5,10 +5,12 @@
 </head>
 <body ng-app="angularFlex">
 
-    <div flex-container="row" style="width: 100%; background-color: #c3c3c3">
-        <h1>Flex Container</h1>
-        <h1>Angular</h1>
-        <h1>Flexbox</h1>
+    <div flex-container="row" flex-align="around stretch" >
+        <div flex-item fx-padding style="background-color:#ff0000">
+            asdasdsd asd sad sad sa dasd asd asd sad sadasd sad sad sad asd asd asd sad asd sad sad sadsa dsa d sadsa das dasd sad sad asd sad as dasd asd asd 
+        </div>
+        <div flex-item fx-padding style="background-color:#00ff00">Helloasdas sdasd sadsadsadsd as dasds dssd as dsads a dsadds adsa dsa ds dsaad sd asd sadsad sad sad sadasdsad sadasdsadsa dsadsadsa dsadsdasd asdsad sad sad asd dsa dsad sd sadsad sd sd sad sad sadsa das 2</div>
+        <div flex-item fx-padding style="background-color:#ffff00">Hello3</div>
     </div>
 
     <div flex-container="row" flex-align="center center" style="width: 100%; background-color: #c3c3c3">
@@ -25,6 +27,12 @@
 
     <div flex-container="row" flex-align="around center" style="width: 100%; background-color: #c3c3c3">
         <h1>Flex Container</h1>
+        <h1>Angular</h1>
+        <h1>Flexbox</h1>
+    </div>
+
+    <div flex-container="row" style="width: 100%; background-color: #c3c3c3">
+        <h1 flex-item>Flex Container</h1>
         <h1>Angular</h1>
         <h1>Flexbox</h1>
     </div>
