@@ -1,4 +1,4 @@
-# angular-flex
+# angular-flex 1.0.1
 
 An implementation of css flexbox for AngularJS
 
@@ -16,7 +16,7 @@ after this add the **angularFlex** module into your module dependencies
 
 ### Documentation
 
-This is the docs for angular-flex 1.0.0
+This is the docs for angular-flex 1.0.1
 
 #### flex-container
 
@@ -39,3 +39,15 @@ By default flex-align uses **start start**
 e.g for center align
 
 ```flex-align="center center"```
+
+#### flex-item (1.0.1)
+
+change item width
+
+``` flex-item="{value}" ```
+
+#### flex-order (1.0.1)
+
+set elements order
+
+``` flex-item flex-order="{value}" ```
